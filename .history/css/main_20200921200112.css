@@ -1,0 +1,9 @@
+/* header */
+.header {position: relative; margin: 0 auto;background: url(../images/background.jpg) no-repeat;width: 100%;height: 100%;background-color: black;}
+.banner-content {max-width: 978px;margin: 0 auto;}
+.header-detailed {padding: 250px;text-align: center;}
+.header-vice {font-size: 1.2rem;color: white;letter-spacing: 5px;}
+.header-title h1 {font-size: 4rem;color: white;}
+.header-bottom ul {padding: 0;}
+.header-bottom ul li {text-decoration: none;list-style: none;display: contents;}
+.header-bottom-one a {padding: 2%;background: rgb(157, 141, 101);}
