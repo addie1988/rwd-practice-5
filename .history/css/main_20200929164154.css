@@ -293,7 +293,7 @@
 	margin: 0;
 	border: 0;
 	opacity: 0.6;
-	background: #9D8D65;
+	background: #000;
 	cursor: pointer;
 	position:fixed;
 	right: 1rem;
@@ -305,7 +305,7 @@
 	width: 18px;
 	height: 5px;
 	border-radius: 3px;
-	background: white;
+	background: #9D8D65;
 	position: absolute;
 	content: "";
 }

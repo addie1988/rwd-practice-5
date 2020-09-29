@@ -267,7 +267,6 @@
 .footer-bottom {position: relative;margin: 0 auto;background-color: #000;}
 .footer-bottom-content {max-width: 978px;color: #CBCBCB;margin: 0 auto;}
 .footer-bottom-content .row {padding: 1rem;}
-.footer-bottom-content .row .col-6 {font-size: 11px;}
 .footer-bottom-content .row .col-6:nth-child(2) {display: flex;justify-content: flex-end;}
 
 @media (max-width: 1024px) {
@@ -293,7 +292,7 @@
 	margin: 0;
 	border: 0;
 	opacity: 0.6;
-	background: #9D8D65;
+	background: #000;
 	cursor: pointer;
 	position:fixed;
 	right: 1rem;
@@ -305,7 +304,7 @@
 	width: 18px;
 	height: 5px;
 	border-radius: 3px;
-	background: white;
+	background: #9D8D65;
 	position: absolute;
 	content: "";
 }
