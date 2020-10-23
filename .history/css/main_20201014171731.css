@@ -1,0 +1,8 @@
+/* header */
+.header {position: relative;margin: 0 auto;background: url(../images/background-01.jpg);background-size: cover;}
+.header-content {max-width: 978px;margin: 0 auto;}
+.bg-light {background: none !important;}
+.navbar-light .navbar-brand {color: white;}
+.mr-auto, .mx-auto {margin-right: none !important;}
+.header-text {padding: 250px 0 20px;}
+.header-text .col {text-align: center;}

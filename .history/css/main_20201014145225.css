@@ -1,0 +1,4 @@
+/* header */
+.header {position: relative;margin: 0 auto;background: url(../images/background-01.jpg);}
+.header-content {max-width: 978px;margin: 0 auto;}
+.bg-light {background: none !important;}
